@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="socialnetwork.controller.UserControllerTest" tests="13" skipped="13" failures="0" errors="0" timestamp="2024-01-18T16:31:58" hostname="sergiu-Dell-G15-5530" time="0.002">
+  <properties/>
+  <testcase name="testCreateFriendship_Succes()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testGetUserByEmail_WithNoUsers()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUpdateUser()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testGetAllUsers_WithUsers()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDeleteUser_UserExists()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testGetAllFriendshipsByUserId()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCreateUser()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDeleteUserWithError()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCreateFriendship_UserNotFound()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDeleteFriendshipById()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDeleteUser_UserNotFound()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testGetUserById_ExitingUser()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testGetUserById_UserNotFound()" classname="socialnetwork.controller.UserControllerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

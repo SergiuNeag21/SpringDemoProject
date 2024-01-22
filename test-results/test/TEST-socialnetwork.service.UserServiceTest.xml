@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="socialnetwork.service.UserServiceTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-01-18T16:32:05" hostname="sergiu-Dell-G15-5530" time="0.323">
+  <properties/>
+  <testcase name="testCreateFriendship_Succes()" classname="socialnetwork.service.UserServiceTest" time="0.301"/>
+  <testcase name="testGetAllUsers()" classname="socialnetwork.service.UserServiceTest" time="0.005"/>
+  <testcase name="testCreateFriendship_SameUser()" classname="socialnetwork.service.UserServiceTest" time="0.003"/>
+  <testcase name="testExistsById()" classname="socialnetwork.service.UserServiceTest" time="0.001"/>
+  <testcase name="testDeleteFriendship()" classname="socialnetwork.service.UserServiceTest" time="0.001"/>
+  <testcase name="testGetAllFriendshipsByUserId()" classname="socialnetwork.service.UserServiceTest" time="0.001"/>
+  <testcase name="testCreateUser()" classname="socialnetwork.service.UserServiceTest" time="0.002"/>
+  <testcase name="testCreateFriendship_FriendshipAlreadyExists()" classname="socialnetwork.service.UserServiceTest" time="0.001"/>
+  <testcase name="testCreateFriendship_UserNotFound()" classname="socialnetwork.service.UserServiceTest" time="0.001"/>
+  <testcase name="testDeleteUser_UserFound()" classname="socialnetwork.service.UserServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
